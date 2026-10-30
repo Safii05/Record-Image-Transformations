@@ -178,20 +178,22 @@ plt.axis('off')
 ### Image Translation
 - Original image is displayed  
 - Translated image (shifted right and down) is displayed
+<img width="682" height="477" alt="Screenshot 2026-10-30 140330" src="https://github.com/user-attachments/assets/422945df-493d-4648-a102-553b618ff922" />
 
 
 ### Image Scaling
 - Original image is displayed  
 - Downscaled image (0.5×) is displayed  
 - Upscaled image (2×) is displayed
-<img width="618" height="287" alt="Screenshot 2026-10-28 085544" src="https://github.com/user-attachments/assets/c7a8d7af-345a-42d5-ab3c-f3a59bdb0344" />
+<img width="697" height="235" alt="Screenshot 2026-10-30 140504" src="https://github.com/user-attachments/assets/8553b0c5-7c8d-4533-903e-b5de449f05a1" />
+
   
 
 ### Image Shearing
 - Original image is displayed  
 - Horizontally sheared image is displayed  
 - Vertically sheared image is displayed
-<img width="462" height="505" alt="Screenshot 2026-10-28 085550" src="https://github.com/user-attachments/assets/de4d6208-3dc4-4979-800f-c3ce26584ffc" />
+<img width="718" height="482" alt="Screenshot 2026-10-30 140523" src="https://github.com/user-attachments/assets/6066b7b7-0524-4764-91ba-8521faa37cd6" />
 
 
 ### Image Reflection
@@ -199,15 +201,15 @@ plt.axis('off')
 - Horizontally flipped image is displayed  
 - Vertically flipped image is displayed  
 - Both-axis flipped image is displayed
-<img width="466" height="497" alt="Screenshot 2026-10-28 085557" src="https://github.com/user-attachments/assets/44741073-ab2f-40d9-bc1c-35f8ddef46f7" />
+<img width="1063" height="492" alt="Screenshot 2026-10-30 140540" src="https://github.com/user-attachments/assets/836db576-4172-40af-904f-3022bd41d553" />
 
 
 ### Image Rotation
 - Original image is displayed  
 - 45° rotated image is displayed  
 - 90° rotated image is displayed
-<img width="456" height="497" alt="Screenshot 2026-10-28 085603" src="https://github.com/user-attachments/assets/ef727167-e2b8-457d-a468-135c78cc958b" />
- 
+<img width="1082" height="496" alt="Screenshot 2026-10-30 140623" src="https://github.com/user-attachments/assets/40d18c73-f51a-49f7-aeb7-c2a7440fcf96" />
+
 
 ---
 
